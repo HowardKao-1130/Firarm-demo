@@ -1,4 +1,4 @@
-# Firarm-demo
+# Realtime-sensor-signal-demo
 
 This is a simplified version of a private repo for segmenting time series data collected from wearable sensors, and analyzing the data using ML.
 
