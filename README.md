@@ -6,10 +6,13 @@ All confidential data, models, and results are removed.
 
 ## Segmentation quality:
 
+Segmentation vs raw signal:
 ![Segmentation signal](https://github.com/HowardKao-1130/Firarm-demo/blob/main/Segmentation/segmentation_demo_fullScale.png)
 
 ## Prediction outcome:
 
+Trainning curve:
 ![Training Curve](https://github.com/HowardKao-1130/Firarm-demo/blob/main/ML/Plots/CNN_firearm_train_history.png)
 
+Confusion matrix (test set): 
 ![Confusion matrix (Test set)](https://github.com/HowardKao-1130/Firarm-demo/blob/main/ML/Plots/CNN_firearm_confusion_matrix_Test.png)
