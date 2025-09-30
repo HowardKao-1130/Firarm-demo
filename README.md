@@ -6,7 +6,7 @@ All confidential data, models, and results are removed.
 
 ## Segmentation quality:
 
-![Segmentation signal](https://github.com/HowardKao-1130/Firarm-demo/blob/main/Segmentation/segmentation_demo_ch1_fullScale.png)
+![Segmentation signal](https://github.com/HowardKao-1130/Firarm-demo/blob/main/Segmentation/segmentation_demo_fullScale.png)
 
 ## Prediction outcome:
 
