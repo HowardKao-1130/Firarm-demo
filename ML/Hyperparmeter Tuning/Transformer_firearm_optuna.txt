@@ -1,0 +1,4 @@
+Optuna Tuning:
+
+Best value (Accuracy): 25.0
+Best parameters: {'model_depth': 2, 'embedding_dim': 4, 'n_heads': 2, 'dropout_rate': 0.4802857225639665, 'learning_rate': 0.002465832945854913, 'patience': 15, 'delta': 0.00042079886696066364}
